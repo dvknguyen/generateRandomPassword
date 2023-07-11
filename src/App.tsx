@@ -93,7 +93,7 @@ function App() {
     <>
       <div className="password-Wrapper">
         <h1 className="title">PASSWORD GENRATOR</h1>
-        <p>Create strong and secure passwords to keep you save online!</p>
+        <p>Create strong and secure passwords to keep you safe online!</p>
         <TextField
           type="text"
           label="Outlined"
