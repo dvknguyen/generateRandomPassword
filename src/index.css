@@ -1,0 +1,50 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #046244;
+
+
+}
+
+.password-Wrapper {
+  background-color: #ffffff;
+  width: 100%;
+  border-radius: 20px;
+  text-align: center;
+
+}
+
+.input-password {
+  border-radius: 10px;
+  width: 30%;
+  height: 30px;
+}
+
+.button-copy {
+  padding-left: 10px;
+  margin: 20px;
+  background-color: #08C488;
+}
+
+
+.option {
+  font-size: 20px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+  .slider {
+    margin: 0px 250px 0px 250px;
+  }
+  
+}
+
+
+
+@media only screen and (min-width: 300px) {
+  .slider {
+    margin: 0px 40px 0px 40px;
+  }
+  
+}
