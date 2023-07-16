@@ -1,3 +1,3 @@
 # generateRandomPassword
 ## This is the app :) 
-###h ttps://weather-app-3rek.vercel.app/
+### https://weather-app-3rek.vercel.app/
